@@ -3,7 +3,7 @@ Demo Rest Assured
 
 A simple project to test APIs REST with Rest Assured and Hamcrest
 
-API Example - https://github.com/fredmoreira/phone-book
+API Example on test - https://github.com/fredmoreira/phone-book
 
 #### Dependencies
 
